@@ -52,10 +52,10 @@
     margin: 5px 10px;
 }
 .cards .card .tagline span{
-    color: #c1646a;
+    color:rgb(232, 72, 13);
 }
 .cards .card .title{
-    color:darksalmon;
+    color:rgb(222, 111, 70);
     font-size: 20px;
     font-weight: bolder;
     margin: 5px 10px;
@@ -71,13 +71,13 @@
     padding: 5px 10px;
     margin: 15px 10px;
     font-size: 18px;
-    background-color: rgb(218, 133, 197);
+    background-color:orangered;
     color: #fff;
     border-radius: 10px;
     /* border:1px solid blue */
 }
 .cards .card a:hover{
-    background-color: rgb(6,6,159);
+    background-color:rgb(233, 155, 12);
 }
 @media screen and (max-width: 980px){
     .cards{
